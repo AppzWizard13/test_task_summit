@@ -1,0 +1,41 @@
+user 
+
+read: Done
+create: DOne
+
+update: DOne 
+delete:Done
+
+
+
+categories
+read: Done
+create: Done
+
+update:  Done
+delete: Done
+
+products
+
+read: Done
+create: Done
+
+update:  Done
+delete: Done
+
+
+shipping Adress
+read: Done
+create: Done
+
+update:  Done
+delete: Done
+
+
+Order 
+read: Done
+create: Done
+
+update:  Done
+delete: Done
+
